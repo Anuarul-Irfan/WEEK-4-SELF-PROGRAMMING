@@ -1,0 +1,23 @@
+Variable values...
+    i = 37
+    j = 42
+    x = 27.475
+    y = 7.22
+Adding...
+    i + j = 79
+    x + y = 34.695
+Subtracting...
+    i - j = -5
+    x - y = 20.255000000000003
+Multiplying...
+    i * j = 1554
+    x * y = 198.36950000000002
+Dividing...
+    i / j = 0
+    x / y = 3.805401662049862
+Computing the remainder...
+    i % j = 37
+    x % y = 5.815000000000002
+Mixing types...
+    j + y = 49.22
+    i * x = 1016.575
